@@ -1,0 +1,46 @@
+.color-purple {
+	color: #A742BA;
+}
+
+.text-purple {
+	color: #A742BA;
+}
+
+.bg-purple {
+	background-color: #A742BA;
+}
+
+.bg-purple-gradient {
+	background: linear-gradient(45deg ,#A742BA, #952EAF);
+}
+
+.bg-purple:hover {
+	background-color: #A742BA;
+	opacity: 0.8;
+}
+
+.color-aqua {
+	color: #00BCD4;
+}
+
+.bg-aqua {
+	background-color: #00BCD4;
+}
+
+.bg-aqua:hover {
+	background-color: #00BCD4;
+	opacity: 0.8;
+}
+
+.color-red {
+	color: #F44336;
+}
+
+.bg-red {
+	background-color: #F44336;
+}
+
+.bg-red:hover {
+	background-color: #F44336;
+	opacity: 0.8;
+}
