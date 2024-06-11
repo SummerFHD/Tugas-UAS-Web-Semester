@@ -1,3 +1,15 @@
+Creator : Andi Muhammad Nauval Ramadhan
+Student at Universitas Pembangunan Jaya Program Studi Sistem Informasi 2023
+Nim : 2023081039
+
+Cara Setup Tugas
+1. composer install
+2. buat database di phpmyadmin dulu, terus update nama db nya di file .env
+3. php artisan migrate
+4. php artisan db:seed
+5. php artisan serve
+## Jika PHP Kamu Under versi 8 bisa kamu upgrade atau cara mudahnya uninstal XAMPP lalu install lagi yang menggunakan PHP 8.2.0.3
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
